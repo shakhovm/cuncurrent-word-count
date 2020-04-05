@@ -1,0 +1,4 @@
+infile=../files/data.zip
+out_by_a=../files/res_a.txt
+out_by_n=../files/res_n.txt
+threads=4
